@@ -3,4 +3,5 @@ Unit 1:
     https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
     https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
     https://www.atlassian.com/git/tutorials/what-is-version-control
-    
+    https://gist.github.com/joseluisq/1e96c54fa4e1e5647940
+    https://iterm2colorschemes.com/
