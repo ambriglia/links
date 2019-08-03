@@ -5,4 +5,8 @@ Unit 1:
     https://www.atlassian.com/git/tutorials/what-is-version-control
     https://gist.github.com/joseluisq/1e96c54fa4e1e5647940
     https://iterm2colorschemes.com/
-    https://css-tricks.com/
+    https://css-tricks.com/the-css-box-model/
+    https://css-tricks.com/all-about-floats/
+    https://css-tricks.com/almanac/properties/p/position/
+    https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+    https://css-tricks.com/snippets/css/complete-guide-grid/
