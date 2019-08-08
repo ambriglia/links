@@ -10,3 +10,9 @@ Unit 1:
     https://css-tricks.com/almanac/properties/p/position/
     https://css-tricks.com/snippets/css/a-guide-to-flexbox/
     https://css-tricks.com/snippets/css/complete-guide-grid/
+
+Unit 2:
+    https://flexboxfroggy.com/
+    https://vim-adventures.com/
+    https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+    https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
