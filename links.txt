@@ -16,3 +16,11 @@ Unit 2:
     https://vim-adventures.com/
     https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
     https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
+
+Unit 3:
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
+    https://eloquentjavascript.net/
+
+Unit 4:
+    https://css-tricks.com/dom/
+    
