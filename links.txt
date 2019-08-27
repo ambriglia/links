@@ -24,3 +24,6 @@ Unit 3:
 Unit 4:
     https://css-tricks.com/dom/
     
+Unit 5:
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+    https://www.regexpal.com/
