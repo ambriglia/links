@@ -30,3 +30,6 @@ Unit 5:
     https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif
     https://visualgo.net/en/sorting
     https://www.toptal.com/developers/sorting-algorithms
+
+Unit 6:
+    http://osp123.github.io/tutorials/html/weatherAPI.html
