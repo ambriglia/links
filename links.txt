@@ -33,3 +33,6 @@ Unit 5:
 
 Unit 6:
     http://osp123.github.io/tutorials/html/weatherAPI.html
+    https://stackoverflow.com/a/383699
+    https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
