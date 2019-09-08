@@ -36,3 +36,5 @@ Unit 6:
     https://stackoverflow.com/a/383699
     https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+    https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
