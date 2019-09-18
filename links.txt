@@ -38,3 +38,6 @@ Unit 6:
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
     https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
     https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
+
+Unit 7:
+    https://firebase.google.com/docs/reference/js/firebase.database
