@@ -41,3 +41,7 @@ Unit 6:
 
 Unit 7:
     https://firebase.google.com/docs/reference/js/firebase.database
+
+Unit 8:
+    https://www.atlassian.com/git/tutorials/using-branches
+    
