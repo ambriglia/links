@@ -44,4 +44,7 @@ Unit 7:
 
 Unit 8:
     https://www.atlassian.com/git/tutorials/using-branches
+    https://www.atlassian.com/git/tutorials/using-branches/git-checkout
+    https://www.atlassian.com/git/tutorials/using-branches/git-merge
+    https://www.atlassian.com/git/tutorials/using-branches/merge-conflicts
     
