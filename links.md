@@ -50,3 +50,6 @@
 
 ## Unit 10:
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test
+* https://code.visualstudio.com/docs/editor/debugging
