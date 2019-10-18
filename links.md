@@ -53,3 +53,11 @@
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test
 * https://code.visualstudio.com/docs/editor/debugging
+
+## Unit 11:
+* https://developer.mozilla.org/en-US/docs/Glossary/Falsy
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+* https://devdocs.io/jsdoc/
+* https://developer.mozilla.org/en-US/docs/Glossary/Callback_function
