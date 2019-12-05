@@ -71,3 +71,6 @@
 ## Express
 * https://expressjs.com/
 * https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes
+
+## MongoDB
+* https://medium.com/@jon.perera/sql-vs-nosql-a-beginners-guide-f80991f76a4b
