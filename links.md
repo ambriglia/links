@@ -74,3 +74,5 @@
 
 ## MongoDB
 * https://medium.com/@jon.perera/sql-vs-nosql-a-beginners-guide-f80991f76a4b
+* https://docs.mongodb.com/manual/crud/
+* https://www.geeksforgeeks.org/acid-properties-in-dbms/
