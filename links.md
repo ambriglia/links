@@ -76,3 +76,13 @@
 * https://medium.com/@jon.perera/sql-vs-nosql-a-beginners-guide-f80991f76a4b
 * https://docs.mongodb.com/manual/crud/
 * https://www.geeksforgeeks.org/acid-properties-in-dbms/
+
+## Reactjs
+* https://reactjs.org/docs/getting-started.html
+* https://reactjs.org/docs/hello-world.html
+* https://reactjs.org/docs/introducing-jsx.html
+* https://reactjs.org/docs/rendering-elements.html
+* https://reactjs.org/docs/components-and-props.html
+* https://reactjs.org/docs/state-and-lifecycle.html
+* https://reactjs.org/docs/hooks-state.html
+* https://reactjs.org/docs/hooks-effect.html
