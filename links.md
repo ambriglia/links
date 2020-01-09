@@ -89,4 +89,5 @@
 
 ## Computer Science
 * https://justin.abrah.ms/computer-science/big-o-notation-explained.html
+* https://www.cs.usfca.edu/~galles/visualization/Search.html
 * https://visualgo.net/en/bst
