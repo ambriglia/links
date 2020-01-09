@@ -86,3 +86,7 @@
 * https://reactjs.org/docs/state-and-lifecycle.html
 * https://reactjs.org/docs/hooks-state.html
 * https://reactjs.org/docs/hooks-effect.html
+
+## Computer Science
+* https://justin.abrah.ms/computer-science/big-o-notation-explained.html
+* https://visualgo.net/en/bst
