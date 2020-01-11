@@ -91,3 +91,5 @@
 * https://justin.abrah.ms/computer-science/big-o-notation-explained.html
 * https://www.cs.usfca.edu/~galles/visualization/Search.html
 * https://visualgo.net/en/bst
+* https://visualgo.net/en/sorting
+* https://www.toptal.com/developers/sorting-algorithms
