@@ -1,4 +1,7 @@
 ## HTML/CSS/Git:
+* https://code.visualstudio.com/docs/editor/emmet
+* https://docs.emmet.io/
+* https://iterm2.com/
 * https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 * https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS
 * https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
