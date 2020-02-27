@@ -15,13 +15,15 @@
 * https://css-tricks.com/all-about-floats/
 * https://css-tricks.com/almanac/properties/p/position/
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-* https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ## CSS/Bootstrap:
 * https://flexboxfroggy.com/
 * https://vim-adventures.com/
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
+* https://css-tricks.com/pseudo-class-selectors/
+* https://css-tricks.com/pseudo-element-roundup/
+* https://css-tricks.com/snippets/css/complete-guide-grid/
 
 ## Javascript:
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
