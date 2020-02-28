@@ -19,6 +19,7 @@
 ## CSS/Bootstrap:
 * https://flexboxfroggy.com/
 * https://vim-adventures.com/
+* https://css-tricks.com/almanac/properties/f/font-family/
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements
 * https://css-tricks.com/pseudo-class-selectors/
