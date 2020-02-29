@@ -14,10 +14,10 @@
 * https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout
 * https://css-tricks.com/all-about-floats/
 * https://css-tricks.com/almanac/properties/p/position/
+* https://flexboxfroggy.com/
 * https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 ## CSS/Bootstrap:
-* https://flexboxfroggy.com/
 * https://vim-adventures.com/
 * https://css-tricks.com/almanac/properties/f/font-family/
 * https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
@@ -25,6 +25,8 @@
 * https://css-tricks.com/pseudo-class-selectors/
 * https://css-tricks.com/pseudo-element-roundup/
 * https://css-tricks.com/snippets/css/complete-guide-grid/
+* https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag
+* https://getbootstrap.com/docs/4.0/layout/grid/
 
 ## Javascript:
 * https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide
